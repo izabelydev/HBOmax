@@ -137,6 +137,7 @@ button.bt-plano {
     font-size: 16px;
     border-radius: 30px;
     margin: 0 auto;
+    color: #f0f0f0;
 }
 
 button.bt-plano:hover {
